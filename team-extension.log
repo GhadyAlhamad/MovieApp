@@ -614,3 +614,41 @@
 2022-02-17T17:29:30.741Z - debug:  [04556] TFVC errors (via stderr): There is no working folder mapping for c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial.
 
 2022-02-17T17:29:30.742Z - error:  [04556] Execution of the TFVC command line failed unexpectedly.
+2022-02-19T17:48:11.974Z - info:   [05376] *** FOLDER: c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial ***
+2022-02-19T17:48:11.975Z - info:   [05376] AzureReposVSCode/1.161.1 (VSCode 1.63.2; Windows_NT 10.0.19044; Node 14.16.0)
+2022-02-19T17:48:11.975Z - debug:  [05376] Looking for an External Context at c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial
+2022-02-19T17:48:11.976Z - debug:  [05376] No External Context at c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial
+2022-02-19T17:48:11.989Z - debug:  [05376] Looking for TFVC repository at c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial
+2022-02-19T17:48:11.989Z - debug:  [05376] TFVC Creating Tfvc object with localPath='undefined'
+2022-02-19T17:48:11.990Z - debug:  [05376] Using TFS proxy: 
+2022-02-19T17:48:11.991Z - debug:  [05376] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2022-02-19T17:48:11.992Z - debug:  [05376] TFVC Repository created with repositoryRootFolder='c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial'
+2022-02-19T17:48:11.994Z - debug:  [05376] TFVC Repository.CheckVersion
+2022-02-19T17:48:11.995Z - debug:  [05376] TFVC: tf add -noprompt -?
+2022-02-19T17:48:12.032Z - debug:  [05376] TFVC: spawned new process (duration: 36ms)
+2022-02-19T17:48:12.043Z - debug:  [05376] TFVC: spawned new process (duration: 9ms)
+2022-02-19T17:48:13.220Z - debug:  [05376] TFVC: add exit code: 0 (duration: 1225ms)
+2022-02-19T17:48:13.221Z - debug:  [05376] TFVC Minimum required version: 14.102.0
+2022-02-19T17:48:13.221Z - debug:  [05376] TFVC (TF.exe, TF.cmd) version: 16.169.31206.5
+2022-02-19T17:48:13.222Z - debug:  [05376] TFVC Repository.FindWorkspace with localPath='c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial'
+2022-02-19T17:48:13.222Z - debug:  [05376] TFVC: tf workfold -noprompt c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial
+2022-02-19T17:48:13.231Z - debug:  [05376] TFVC: spawned new process (duration: 8ms)
+2022-02-19T17:48:15.392Z - debug:  [05376] TFVC: workfold exit code: 100 (duration: 2170ms)
+2022-02-19T17:48:15.394Z - debug:  [05376] TFVC errors (via stderr): There is no working folder mapping for c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial.
+
+2022-02-19T17:48:15.394Z - error:  [05376] Execution of the TFVC command line failed unexpectedly.
+2022-02-20T02:27:34.604Z - debug:  [05376] Reinitializing due to onDidChangeConfiguration
+2022-02-20T02:27:34.610Z - debug:  [05376] Polling interval value (minutes): 5
+2022-02-20T02:27:34.610Z - debug:  [05376] Polling interval must be greater than 10 minutes.
+2022-02-20T02:27:34.623Z - info:   [05376] *** FOLDER: c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial ***
+2022-02-20T02:27:34.624Z - info:   [05376] AzureReposVSCode/1.161.1 (VSCode 1.63.2; Windows_NT 10.0.19044; Node 14.16.0)
+2022-02-20T02:27:34.626Z - debug:  [05376] Looking for an External Context at c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial
+2022-02-20T02:27:34.626Z - debug:  [05376] No External Context at c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial
+2022-02-20T02:27:34.662Z - debug:  [05376] Looking for TFVC repository at c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial
+2022-02-20T02:27:34.663Z - debug:  [05376] TFVC Creating Tfvc object with localPath='undefined'
+2022-02-20T02:27:34.665Z - debug:  [05376] Using TFS proxy: 
+2022-02-20T02:27:34.665Z - debug:  [05376] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2022-02-20T02:27:34.667Z - debug:  [05376] TFVC Repository created with repositoryRootFolder='c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial'
+2022-02-20T02:27:34.668Z - debug:  [05376] TFVC Repository.CheckVersion
+2022-02-20T02:27:34.671Z - debug:  [05376] TFVC: tf add -noprompt -?
+2022-02-20T02:27:34.694Z - debug:  [05376] TFVC: spawned new process (duration: 18ms)
