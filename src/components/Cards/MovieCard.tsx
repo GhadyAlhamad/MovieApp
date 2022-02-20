@@ -57,7 +57,7 @@ const MovieCard = ({ movieId, movie, width, isTop }: any) => {
         height={isTop ? "250px" : "200px"}
         className={classes.MovieCardImage}
         onError={({ currentTarget }) => {
-          currentTarget.onerror = null; // prevents looping..
+          currentTarget.onerror = null; // prevents looping....
           currentTarget.src =
             window.location.origin + "/images/no-poster-available.jpg";
         }}
