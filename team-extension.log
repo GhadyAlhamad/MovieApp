@@ -823,3 +823,16 @@
 2022-02-20T17:19:45.814Z - debug:  [26820] TFVC errors (via stderr): There is no working folder mapping for c:\Users\eng.ghadyalhamad\Desktop\TheMovie\TheMovieTutorial.
 
 2022-02-20T17:19:45.814Z - error:  [26820] Execution of the TFVC command line failed unexpectedly.
+2022-02-28T19:37:32.347Z - info:   [06752] *** FOLDER: d:\TrainingCourses\React\MovieApp ***
+2022-02-28T19:37:32.348Z - info:   [06752] AzureReposVSCode/1.161.1 (VSCode 1.63.2; Windows_NT 10.0.19044; Node 14.16.0)
+2022-02-28T19:37:32.349Z - debug:  [06752] Looking for an External Context at d:\TrainingCourses\React\MovieApp
+2022-02-28T19:37:32.349Z - debug:  [06752] No External Context at d:\TrainingCourses\React\MovieApp
+2022-02-28T19:37:32.355Z - debug:  [06752] Looking for TFVC repository at d:\TrainingCourses\React\MovieApp
+2022-02-28T19:37:32.355Z - debug:  [06752] TFVC Creating Tfvc object with localPath='undefined'
+2022-02-28T19:37:32.356Z - debug:  [06752] Using TFS proxy: 
+2022-02-28T19:37:32.356Z - debug:  [06752] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2022-02-28T19:37:32.357Z - debug:  [06752] TFVC Repository created with repositoryRootFolder='d:\TrainingCourses\React\MovieApp'
+2022-02-28T19:37:32.358Z - debug:  [06752] TFVC Repository.CheckVersion
+2022-02-28T19:37:32.358Z - debug:  [06752] TFVC: tf add -noprompt -?
+2022-02-28T19:37:32.365Z - debug:  [06752] TFVC: spawned new process (duration: 6ms)
+2022-02-28T19:37:32.373Z - debug:  [06752] TFVC: spawned new process (duration: 7ms)
