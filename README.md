@@ -1,7 +1,25 @@
-# Netflix Clone
+<h1>Movie tutorial app </h1> 
+ 
+It's just tutorial with React/Typecript/Firebase - Interview test - Ghady Alhamad
+Implemented in 2022, Feb.
 
-Hi!
-Your assignment is to implement a movie streaming dashboard using TypeScript and React.
+![Movie1](https://raw.githubusercontent.com/GhadyAlhamad/MovieApp/main/samples/home4.PNG)
+
+![Movie2](https://raw.githubusercontent.com/GhadyAlhamad/MovieApp/main/samples/genreMovies.PNG?raw=true)
+
+![Movie3](https://raw.githubusercontent.com/GhadyAlhamad/MovieApp/main/samples/movies1.PNG?raw=true)
+
+![Movie4](https://raw.githubusercontent.com/GhadyAlhamad/MovieApp/main/samples/movies5.PNG?raw=true)
+
+![Movie5](https://raw.githubusercontent.com/GhadyAlhamad/MovieApp/main/samples/movies6.PNG?raw=true)
+
+![Movie6](https://raw.githubusercontent.com/GhadyAlhamad/MovieApp/main/samples/movies3.PNG?raw=true)
+
+![Movie7](https://raw.githubusercontent.com/GhadyAlhamad/MovieApp/main/samples/movies4.PNG?raw=true)
+
+![Movie8](https://raw.githubusercontent.com/GhadyAlhamad/MovieApp/main/samples/watchlist.PNG?raw=true)
+
+![Movie9](https://raw.githubusercontent.com/GhadyAlhamad/MovieApp/main/samples/login.PNG?raw=true)
 
 ### Tasks
 
@@ -31,4 +49,5 @@ Your assignment is to implement a movie streaming dashboard using TypeScript and
 - Completeness: did you complete the features?
 - Correctness: does the functionality act in sensible, thought-out ways?
 - Maintainability: is it written in a clean, maintainable way?
+
 #
