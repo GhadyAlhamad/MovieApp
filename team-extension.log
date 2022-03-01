@@ -999,3 +999,51 @@
 2022-02-28T19:54:33.746Z - debug:  [33908] TFVC errors (via stderr): There is no working folder mapping for d:\TrainingCourses\React\MovieApp.
 
 2022-02-28T19:54:33.746Z - error:  [33908] Execution of the TFVC command line failed unexpectedly.
+2022-03-01T18:57:02.726Z - info:   [04352] *** FOLDER: d:\TrainingCourses\React\MovieApp ***
+2022-03-01T18:57:02.727Z - info:   [04352] AzureReposVSCode/1.161.1 (VSCode 1.63.2; Windows_NT 10.0.19044; Node 14.16.0)
+2022-03-01T18:57:02.727Z - debug:  [04352] Looking for an External Context at d:\TrainingCourses\React\MovieApp
+2022-03-01T18:57:02.727Z - debug:  [04352] No External Context at d:\TrainingCourses\React\MovieApp
+2022-03-01T18:57:02.735Z - debug:  [04352] Looking for TFVC repository at d:\TrainingCourses\React\MovieApp
+2022-03-01T18:57:02.735Z - debug:  [04352] TFVC Creating Tfvc object with localPath='undefined'
+2022-03-01T18:57:02.736Z - debug:  [04352] Using TFS proxy: 
+2022-03-01T18:57:02.736Z - debug:  [04352] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2022-03-01T18:57:02.737Z - debug:  [04352] TFVC Repository created with repositoryRootFolder='d:\TrainingCourses\React\MovieApp'
+2022-03-01T18:57:02.737Z - debug:  [04352] TFVC Repository.CheckVersion
+2022-03-01T18:57:02.738Z - debug:  [04352] TFVC: tf add -noprompt -?
+2022-03-01T18:57:02.743Z - debug:  [04352] TFVC: spawned new process (duration: 5ms)
+2022-03-01T18:57:02.751Z - debug:  [04352] TFVC: spawned new process (duration: 7ms)
+2022-03-01T18:57:03.567Z - debug:  [04352] TFVC: add exit code: 0 (duration: 829ms)
+2022-03-01T18:57:03.568Z - debug:  [04352] TFVC Minimum required version: 14.102.0
+2022-03-01T18:57:03.568Z - debug:  [04352] TFVC (TF.exe, TF.cmd) version: 16.169.31206.5
+2022-03-01T18:57:03.568Z - debug:  [04352] TFVC Repository.FindWorkspace with localPath='d:\TrainingCourses\React\MovieApp'
+2022-03-01T18:57:03.569Z - debug:  [04352] TFVC: tf workfold -noprompt d:\TrainingCourses\React\MovieApp
+2022-03-01T18:57:03.575Z - debug:  [04352] TFVC: spawned new process (duration: 6ms)
+2022-03-01T18:57:04.974Z - debug:  [04352] TFVC: workfold exit code: 100 (duration: 1405ms)
+2022-03-01T18:57:04.975Z - debug:  [04352] TFVC errors (via stderr): There is no working folder mapping for d:\TrainingCourses\React\MovieApp.
+
+2022-03-01T18:57:04.975Z - error:  [04352] Execution of the TFVC command line failed unexpectedly.
+2022-03-01T18:57:07.280Z - debug:  [04352] Reinitializing due to onDidChangeConfiguration
+2022-03-01T18:57:07.281Z - debug:  [04352] Polling interval value (minutes): 5
+2022-03-01T18:57:07.282Z - debug:  [04352] Polling interval must be greater than 10 minutes.
+2022-03-01T18:57:07.290Z - info:   [04352] *** FOLDER: d:\TrainingCourses\React\MovieApp ***
+2022-03-01T18:57:07.290Z - info:   [04352] AzureReposVSCode/1.161.1 (VSCode 1.63.2; Windows_NT 10.0.19044; Node 14.16.0)
+2022-03-01T18:57:07.291Z - debug:  [04352] Looking for an External Context at d:\TrainingCourses\React\MovieApp
+2022-03-01T18:57:07.291Z - debug:  [04352] No External Context at d:\TrainingCourses\React\MovieApp
+2022-03-01T18:57:07.310Z - debug:  [04352] Looking for TFVC repository at d:\TrainingCourses\React\MovieApp
+2022-03-01T18:57:07.312Z - debug:  [04352] TFVC Creating Tfvc object with localPath='undefined'
+2022-03-01T18:57:07.318Z - debug:  [04352] Using TFS proxy: 
+2022-03-01T18:57:07.319Z - debug:  [04352] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe'
+2022-03-01T18:57:07.321Z - debug:  [04352] TFVC Repository created with repositoryRootFolder='d:\TrainingCourses\React\MovieApp'
+2022-03-01T18:57:07.323Z - debug:  [04352] TFVC Repository.CheckVersion
+2022-03-01T18:57:07.324Z - debug:  [04352] TFVC: tf add -noprompt -?
+2022-03-01T18:57:07.356Z - debug:  [04352] TFVC: spawned new process (duration: 27ms)
+2022-03-01T18:57:07.772Z - debug:  [04352] TFVC: add exit code: 0 (duration: 447ms)
+2022-03-01T18:57:07.772Z - debug:  [04352] TFVC Minimum required version: 14.102.0
+2022-03-01T18:57:07.773Z - debug:  [04352] TFVC (TF.exe, TF.cmd) version: 16.169.31206.5
+2022-03-01T18:57:07.773Z - debug:  [04352] TFVC Repository.FindWorkspace with localPath='d:\TrainingCourses\React\MovieApp'
+2022-03-01T18:57:07.773Z - debug:  [04352] TFVC: tf workfold -noprompt d:\TrainingCourses\React\MovieApp
+2022-03-01T18:57:07.779Z - debug:  [04352] TFVC: spawned new process (duration: 6ms)
+2022-03-01T18:57:08.733Z - debug:  [04352] TFVC: workfold exit code: 100 (duration: 960ms)
+2022-03-01T18:57:08.734Z - debug:  [04352] TFVC errors (via stderr): There is no working folder mapping for d:\TrainingCourses\React\MovieApp.
+
+2022-03-01T18:57:08.735Z - error:  [04352] Execution of the TFVC command line failed unexpectedly.
