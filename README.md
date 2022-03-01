@@ -40,3 +40,7 @@ Implemented in 2022, Feb.
 - Your watchlist should contain an array of movies you've previously added to your watchlist.
 - Create `/watchlist/{id}` route where you can check the list of the movies you've previously added.
 - Implement logout flow
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> 89dcc52a7f01d5e27ddbd75b91400d46aa202b74
