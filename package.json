@@ -1,8 +1,13 @@
 {
-  "name": "netflix-clone",
+  "name": "movie-app",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/GhadyAlhamad/MovieApp.git"
+  }, 
   "main": "src/index.tsx",
   "dependencies": {
     "@babel/core": "^7.12.0",
