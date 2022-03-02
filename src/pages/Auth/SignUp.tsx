@@ -66,8 +66,6 @@ const SignUp = () => {
     try {
       // set loading false
       setLoading(false);
-
-      /*
       // create user
       let userCredential = await auth.createUserWithEmailAndPassword(
         credential.Email,
@@ -78,17 +76,11 @@ const SignUp = () => {
       // send success message
       Notiflix.Notify.success("User created successfully..", {
         timeout: 6000,
-      });*/
-
-      // send success message
-      Notiflix.Notify.info(
-        "You couldn't create new account for demo copy, login with: ghadyalhamad@gmail.com - 12345678..",
-        { timeout: 20000 }
-      );
+      });
       // set loading for completed
       setLoading(true);
       // go to home
-      //navigate("/");
+      navigate("/");
     } catch (ex: any) {
       // notify user with error message
       Notiflix.Notify.failure(ex.message, {
