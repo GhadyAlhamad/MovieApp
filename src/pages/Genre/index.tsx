@@ -48,7 +48,7 @@ const Genre = () => {
     // set search data
     setSearchData({
       ...searchData,
-      ["year"]: val,
+      year: val,
     });
   };
   // create state for screen width
@@ -102,7 +102,7 @@ const Genre = () => {
           (!searchData.year || parseInt(m.movie.year) == searchData.year)
       )
     );
-  }, [searchData]);
+  }, [searchData, movies]);
 
   return (
     <Grid container className={classes.Container}>

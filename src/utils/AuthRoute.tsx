@@ -12,11 +12,8 @@ import {
   Tooltip,
   Avatar,
   Button,
-  Grid,
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
-import { Search, SearchIconWrapper, StyledInputBase } from "./style";
-import SearchIcon from "@mui/icons-material/Search";
 import { auth } from "../constants/firebase";
 import { Footer } from "../components/Footer";
 
